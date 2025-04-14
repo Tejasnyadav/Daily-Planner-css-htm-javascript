@@ -1,5 +1,5 @@
 📖 README for My Daily Planner
-Screenshot 2025-04-14 221805.png
+S
 My Daily Planner
 This is a simple yet elegant daily planner application designed to help you organize your tasks efficiently. It is built using HTML, CSS, and JavaScript to showcase my proficiency in front-end web development.
 
